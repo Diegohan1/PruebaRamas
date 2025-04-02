@@ -1,4 +1,8 @@
 Prueba
 sexo
+<<<<<<< HEAD
 Hola
 hola
+=======
+Hola
+>>>>>>> de5f06d606eb33b40b04a0710237ae5e083d7c91
